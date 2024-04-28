@@ -1,0 +1,19 @@
+
+.card {
+    background-color: #000; 
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); 
+}
+
+
+.card-label {
+    color: #00FF00; 
+    font-weight: bold;
+    margin: 8px 0;
+}
+
+
+.card-value {
+    color: #FF69B4; 
+}
